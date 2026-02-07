@@ -38,9 +38,9 @@ async def approve(_, m: Message):
         # ✅ USER KO DM
         await app.send_message(
             user.id,
-            f"👋 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 • {user.first_name}\n\n"
-            "𝗬𝗼𝘂𝗿 𝗷𝗼𝗶𝗻 𝗿𝗲𝗾𝘂𝗲𝘀𝘁 𝗵𝗮𝘀 𝗯𝗲𝗲𝗻 𝗿𝗲𝗰𝗲𝗶𝘃𝗲𝗱 𝘀𝘂𝗰𝗰𝗲𝘀𝘀𝗳𝘂𝗹𝗹𝘆.\n\n"
-            "⏳ 𝗣𝗹𝗲𝗮𝘀𝗲 𝘄𝗮𝗶𝘁 𝘄𝗵𝗶𝗹𝗲 𝗼𝘂𝗿 𝗮𝗱𝗺𝗶𝗻 𝗿𝗲𝘃𝗶𝗲𝘄𝘀 𝗮𝗻𝗱 𝗮𝗽𝗿𝗼𝘃𝗲𝘀 𝘆𝗼𝘂𝗿 𝗿𝗲𝗾𝘂𝗲𝘀𝘁.\n\n🤑 𝗔𝗽𝗸𝗮 𝘃𝗶𝗽 𝗻𝘂𝗺𝗯𝗲𝗿 𝗽𝗮𝗻𝟯𝗹 𝗻𝗶𝗰𝗵𝗲 𝗱𝗶𝘆𝗲 𝗴𝗮𝘆𝗲 𝗵𝗮𝗶𝗻 𝘂𝘀𝗲 𝗸𝗮𝗿𝗻𝗲 𝗸𝗲 𝗹𝗶𝘆𝗲 𝘀𝗲𝘁𝘂𝗽 𝘃𝗶𝗱𝗲𝗼 𝗱𝗵𝘆𝗮𝗮𝗻 𝘀𝗲 𝗱𝗲𝗸𝗵𝗲𝗶𝗻. "
+            f"👋 HELLO • {user.first_name} REQ JALDI LE LUNGA CHANNEL MAI AAPKI MAI 🥰❤️‍🔥 \n\n"
+            "➡️AGER TUMHARA BHI 10K SE UPAR LOSS HAI TOH CLICK KARKE MSG❤️‍🩹 KARO @Mrdev_vip 💢 \n\n"
+            "https://t.me/QZxWINQOMTk1 \nhttps://t.me/m/QZxWINQOMTk1 \n      VIP CHANNEL SURESHOT \n\nHACK APK AND SET-UP VIDEO NICHE HAI \n⤵️⤵️⤵️"
         )
 
         # ✅ PROMO / APK / VIDEO SEND
