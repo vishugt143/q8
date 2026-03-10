@@ -39,8 +39,6 @@ async def approve(_, m: Message):
         await app.send_message(
             user.id,
             f"👋 HELLO • {user.first_name} REQ JALDI LE LUNGA CHANNEL MAI AAPKI MAI 🥰❤️‍🔥 \n\n"
-            "➡️AGER TUMHARA BHI 10K SE UPAR LOSS HAI TOH CLICK KARKE MSG❤️‍🩹 KARO @Mrdev_vip 💢 \n\n"
-            "https://t.me/QZxWINQOMTk1 \nhttps://t.me/m/QZxWINQOMTk1 \n      VIP CHANNEL SURESHOT \n\nHACK APK AND SET-UP VIDEO NICHE HAI \n⤵️⤵️⤵️"
         )
 
         # ✅ PROMO / APK / VIDEO SEND
